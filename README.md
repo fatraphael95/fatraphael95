@@ -10,7 +10,7 @@
 
 <br />
 
-I am Raphael Chen, a recent 🧪 chemical engineering 2021 postgraduate from University of Edinburgh. 
+I am Raphael Chen, a recent 🧪 chemical engineering postgraduate from University of Edinburgh. 
 
 - 🌎  Singapore 🇸🇬
 - 🧑🏻‍💻  Analyst @ [Novaxi Venture Innovation](https://www.novaxi.co/)
