@@ -6,16 +6,24 @@
   <img align="left" alt="Raphael | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=fatraphael95.fatraphael95)
+
 <br />
 
-I am Raphael Chen, a recent chemical engineering postgraduate from University of Edinburgh. 
+I am Raphael Chen, a recent 🧪 chemical engineering 2021 postgraduate from University of Edinburgh. 
 
-- 🥷 Always learning and finding new techniques to improve my productivity 
-- 🔭 I’m currently working on an NLP project to detect fake news
-- 🌱 I’m currently learning OpenAI
-- 💬 Ask me about ...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raphael-chen/)
-- ⚡ Fun fact: ...
+- 🌎  Singapore 🇸🇬
+- 🧑🏻‍💻  Analyst @ [Novaxi Venture Innovation](https://www.novaxi.co/)
+- 🚀 VC Scout @ [Open Scout](https://www.os.onepager.vc/)
+- 🔭 I’m currently working on a mini NLP project to detect fake information from news articles
+- 🌱 I’m currently learning OpenAI Codex and interested in using Data Science & AI tools to solve real problems in high-growth businesses
+
+- 💬 Ask me about Data Science, AI, Cryptocurrency, Blockchain, and NFTs
+- 📫 How to reach me: 
+- ⚡ Fun fact: Like to dip anything with Singapore Mcdonald's Chilli sauce 🌶
+
+
+Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his random ideas ⛵️
 
 
 **languages and tools:**  
