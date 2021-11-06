@@ -17,7 +17,7 @@ I am Raphael Chen, a recent 🧪 chemical engineering postgraduate from Universi
 - 🛠 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
 
 - 💬 Ping me about Data Science, AI, Crypto, Blockchain, and NFTs
-- 📫 How to reach me: 
+- 📫 How to reach me: <a href="mailto:raphaelchen1995@gmail.com">📮 Send an e-mail</a>
 - ⚡ Fun fact: Like to dip anything with Mcdonald's Chilli sauce 🌶
 
 
