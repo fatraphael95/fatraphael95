@@ -16,7 +16,8 @@ I am Raphael Chen, a recent 🧪 chemical engineering 2021 postgraduate from Uni
 - 🧑🏻‍💻  Analyst @ [Novaxi Venture Innovation](https://www.novaxi.co/)
 - 🚀 VC Scout @ [Open Scout](https://www.os.onepager.vc/)
 - 🔭 I’m currently working on a mini NLP project to detect fake information from news articles
-- 🌱 I’m currently learning OpenAI Codex and interested in using Data Science & AI tools to solve real problems in high-growth businesses
+- 🌱 Building up my knowledge in Data Science, Computer Vision and Audio Deep Learning
+- 🛠 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
 
 - 💬 Ask me about Data Science, AI, Cryptocurrency, Blockchain, and NFTs
 - 📫 How to reach me: 
@@ -25,6 +26,7 @@ I am Raphael Chen, a recent 🧪 chemical engineering 2021 postgraduate from Uni
 
 Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his random ideas ⛵️
 
+<br />
 
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
