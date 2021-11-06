@@ -19,12 +19,13 @@ I am Raphael Chen, a recent 🧪 chemical engineering postgraduate from Universi
 - 🌱 Building up my knowledge in Data Science, Computer Vision and Audio Deep Learning
 - 🛠 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
 
-- 💬 Ask me about Data Science, AI, Cryptocurrency, Blockchain, and NFTs
+- 💬 Ping me about Data Science, AI, Cryptocurrency, Blockchain, and NFTs
 - 📫 How to reach me: 
 - ⚡ Fun fact: Like to dip anything with Singapore Mcdonald's Chilli sauce 🌶
 
 
 Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his random ideas ⛵️
+
 
 <br />
 
