@@ -6,6 +6,8 @@
   <img align="left" alt="Raphael | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+<br />
+
 I am Raphael Chen, a recent chemical engineering postgraduate from University of Edinburgh. 
 
 - 🥷 Always learning and finding new techniques to improve my productivity 
