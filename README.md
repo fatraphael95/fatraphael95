@@ -38,4 +38,4 @@ Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his 
 <br />
 
 <h2>📈 GitHub Stats</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fatraphael95&show_icons=true&theme=gotham" alt="fatraphael95" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fatraphael95&show_icons=true&theme=dracula" alt="fatraphael95" />
