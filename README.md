@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**fatraphael95/fatraphael95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Raphael Chen, a recent chemical engineering postgraduate from University of Edinburgh. 
 
 - 🥷 Always learning and finding new techniques to improve my productivity 
 - 🔭 I’m currently working on an NLP project to detect fake news
@@ -9,6 +9,11 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raphael-chen/)
 - ⚡ Fun fact: ...
+
+
+**languages and tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
 📈 my github stats
