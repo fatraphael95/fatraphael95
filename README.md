@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<a href="https://www.linkedin.com/in/raphael-chen/">
+  <img align="left" alt="Raphael's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/fatraphael95">
+  <img align="left" alt="Raphael | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
 I am Raphael Chen, a recent chemical engineering postgraduate from University of Edinburgh. 
 
