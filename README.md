@@ -38,6 +38,7 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="https://www.latex-project.org/" target="_blank"> <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"> </a>
   <a href="https://html.com/" target="_blank"> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="https://www.markdownguide.org/" target="_blank"> <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 
 <h3>🧰 Frameworks & Libraries</h3>
   <a href="https://numpy.org/" target="_blank"> <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
@@ -52,7 +53,8 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
 <h3>💻 Software and Tools</h3>  
   <a href="https://jupyter.org/" target="_blank"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="https://stackoverflow.com/"  target="_blank"> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  <a href="https://stackoverflow.com/" target="_blank"> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  <a href="https://brave.com/" target="_blank"> <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
   
 </p>
 
