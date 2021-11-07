@@ -12,18 +12,15 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
 
 <br />
 
-<p align="center">
-  <samp>
-Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his random ideas ⛵️
-  </samp>
-</p>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=%23133337&size=22&center=true&vCenter=true&width=1000&lines=Aspiring+Data+storyteller+%F0%9F%93%9A;Venture+Capital+Enthusiast+%F0%9F%9A%80;1%2B+years+of+coding+experience+%F0%9F%92%BB;Always+curious%2C+constantly+learning++and+exploring+my+random+ideas+%E2%9B%B5%EF%B8%8F)](https://git.io/typing-svg)
 
 ### <img src="https://media.giphy.com/media/egvjLtyRtIzt9TFc3x/giphy.gif" width="50"> A little more about me...  
 
 - 🌎 Singaporean 🇸🇬
 <!-- - 🧑🏻‍💻 Data Scientist @ <a href="https://carro.sg/"><img src="https://carro.sg/assets/img/carro_logo_v2.svg" width="55" vertical-align="middle"></a> -->
 - 🧑🏻‍💻 Analyst @ <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQELjyimwTEzaA/company-logo_200_200/0/1630400947984?e=2159024400&v=beta&t=k985_A142RMBPoBIPVAOLFbTVzcpOqJSNIMOHN0cJDI" width="18" vertical-align="middle"> [Novaxi Venture Innovation](https://www.novaxi.co/) 
-- 🚀 VC Scout @ <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHzPigPv_9tSA/company-logo_200_200/0/1594422460415?e=2159024400&v=beta&t=v0mmzIXSY1KU7RhYTSlWZ2pUwiyQ_wct1jk3glAqqf8" width="18" vertical-align="middle"> [Open Scout](https://www.os.onepager.vc/)
+- 🥷 VC Scout @ <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHzPigPv_9tSA/company-logo_200_200/0/1594422460415?e=2159024400&v=beta&t=v0mmzIXSY1KU7RhYTSlWZ2pUwiyQ_wct1jk3glAqqf8" width="18" vertical-align="middle"> [Open Scout](https://www.os.onepager.vc/)
 - 🔭 I’m currently working on a mini NLP project to detect fake information from news articles
 - 🌱 Building up my knowledge in Data Science, Computer Vision and Audio Deep Learning
 - 🧐 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
