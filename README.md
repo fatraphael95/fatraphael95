@@ -20,8 +20,9 @@ Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his 
 
 ### <img src="https://media.giphy.com/media/egvjLtyRtIzt9TFc3x/giphy.gif" width="50"> A little more about me...  
 
-- 🌎  Singaporean 🇸🇬
-- 🧑🏻‍💻  Analyst @ <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQELjyimwTEzaA/company-logo_200_200/0/1630400947984?e=2159024400&v=beta&t=k985_A142RMBPoBIPVAOLFbTVzcpOqJSNIMOHN0cJDI" width="18" vertical-align="middle"> [Novaxi Venture Innovation](https://www.novaxi.co/) 
+- 🌎 Singaporean 🇸🇬
+<!-- - 🧑🏻‍💻 Data Scientist @ <a href="https://carro.sg/"><img src="https://carro.sg/assets/img/carro_logo_v2.svg" width="55" vertical-align="middle"></a> -->
+- 🧑🏻‍💻 Analyst @ <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQELjyimwTEzaA/company-logo_200_200/0/1630400947984?e=2159024400&v=beta&t=k985_A142RMBPoBIPVAOLFbTVzcpOqJSNIMOHN0cJDI" width="18" vertical-align="middle"> [Novaxi Venture Innovation](https://www.novaxi.co/) 
 - 🚀 VC Scout @ <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHzPigPv_9tSA/company-logo_200_200/0/1594422460415?e=2159024400&v=beta&t=v0mmzIXSY1KU7RhYTSlWZ2pUwiyQ_wct1jk3glAqqf8" width="18" vertical-align="middle"> [Open Scout](https://www.os.onepager.vc/)
 - 🔭 I’m currently working on a mini NLP project to detect fake information from news articles
 - 🌱 Building up my knowledge in Data Science, Computer Vision and Audio Deep Learning
@@ -29,7 +30,7 @@ Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his 
 
 - 💬 Ping me about Data Science, AI, Crypto, Blockchain, and NFTs
 - 📫 How to reach me: <a href="mailto:raphaelchen1995@gmail.com">📮 Send an e-mail</a>
-- ⚡ Fun fact: Like to dip anything with Mcdonald's Chilli sauce 🌶
+- ⚡ Fun fact: Like to dip anything with SinSin Garlic Chilli sauce 🌶
 
 <br />
 
