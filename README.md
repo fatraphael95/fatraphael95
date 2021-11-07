@@ -26,7 +26,7 @@ Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his 
 - 🚀 VC Scout @ <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHzPigPv_9tSA/company-logo_200_200/0/1594422460415?e=2159024400&v=beta&t=v0mmzIXSY1KU7RhYTSlWZ2pUwiyQ_wct1jk3glAqqf8" width="18" vertical-align="middle"> [Open Scout](https://www.os.onepager.vc/)
 - 🔭 I’m currently working on a mini NLP project to detect fake information from news articles
 - 🌱 Building up my knowledge in Data Science, Computer Vision and Audio Deep Learning
-- 🛠 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
+- 🧐 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
 
 - 💬 Ping me about Data Science, AI, Crypto, Blockchain, and NFTs
 - 📫 How to reach me: <a href="mailto:raphaelchen1995@gmail.com">📮 Send an e-mail</a>
@@ -34,7 +34,7 @@ Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his 
 
 <br />
 
-<h2>Languages & Tools</h2>
+<h2>🛠 Languages & Tools</h2>
 <p align="left"> 
   </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
