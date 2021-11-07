@@ -30,7 +30,7 @@ Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his 
 
 - 💬 Ping me about Data Science, AI, Crypto, Blockchain, and NFTs
 - 📫 How to reach me: <a href="mailto:raphaelchen1995@gmail.com">📮 Send an e-mail</a>
-- ⚡ Fun fact: Like to dip anything with SinSin Garlic Chilli sauce 🌶
+- ⚡ Fun fact: Like to dip anything with SinSin Garlic Chilli Sauce 🌶 😈
 
 <br />
 
