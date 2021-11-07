@@ -10,6 +10,13 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
   </samp>
 </p>
 
+<br />
+
+<p align="center">
+  <samp>
+Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his random ideas ⛵️
+  </samp>
+</p>
 
 ### <img src="https://media.giphy.com/media/egvjLtyRtIzt9TFc3x/giphy.gif" width="50"> A little more about me...  
 
@@ -24,10 +31,6 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
 - 📫 How to reach me: <a href="mailto:raphaelchen1995@gmail.com">📮 Send an e-mail</a>
 - ⚡ Fun fact: Like to dip anything with Mcdonald's Chilli sauce 🌶
 
-
-Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his random ideas ⛵️
-
-<br />
 <br />
 
 <h2>Languages & Tools</h2>
