@@ -61,5 +61,5 @@ Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his 
 <h2>🗂️ Highlight Projects</h2>
 
 <a href="https://github.com/fatraphael95/Chemical-Engineering-Research-Project-5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fatraphael95&repo=Chemical-Engineering-Research-Project-5&show_icons=true&line_height=27&theme=swift" alt="Chemical-Engineering-Research-Project-5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fatraphael95&repo=Chemical-Engineering-Research-Project-5&show_icons=true&line_height=27&theme=swift" alt="🩸 Chemical-Engineering-Research-Project-5" />
 </a>
