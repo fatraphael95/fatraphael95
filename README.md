@@ -44,12 +44,14 @@ Always curious 🥷🏼, constantly learning 🧑🏻‍💻  and exploring his 
 <br />
 
 <h2>📈 GitHub Stats</h2> 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fatraphael95&show_icons=true&theme=dracula" alt="fatraphael95" />
+<a href="https://github.com/fatraphael95/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fatraphael95&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Raphael's github stats" /></a>  <a href="https://github.com/fatraphael95/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatraphael95&layout=compact&theme=vue&hide_border=true" /></a>
+
+  
   
 <br />
   
 <h2>🗂️ Highlight Projects</h2>
 
 <a href="https://github.com/fatraphael95/Chemical-Engineering-Research-Project-5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fatraphael95&repo=Chemical-Engineering-Research-Project-5&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Chemical-Engineering-Research-Project-5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fatraphael95&repo=Chemical-Engineering-Research-Project-5&show_icons=true&line_height=27&theme=swift" alt="Chemical-Engineering-Research-Project-5" />
 </a>
