@@ -20,7 +20,7 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
 - 🌎 Singaporean 🇸🇬
 - 🧑🏻‍💻 Data Scientist @ <a href="https://carro.sg/"><img src="https://carro.sg/assets/img/carro_logo_v2.svg" width="55" vertical-align="middle"></a>
 - 🥷 VC Scout @ <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHzPigPv_9tSA/company-logo_200_200/0/1594422460415?e=2159024400&v=beta&t=v0mmzIXSY1KU7RhYTSlWZ2pUwiyQ_wct1jk3glAqqf8" width="18" vertical-align="middle"> [Open Scout](https://www.os.onepager.vc/)
-- 🔭 I’m currently working on a mini NLP project to detect fake information from news articles
+- 🔭 I’m currently taking up a 6-months part-time Data Science Program at the Institute of Data
 - 🌱 Building up my knowledge in Data Science, Computer Vision and Audio Deep Learning
 - 🧐 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
 
