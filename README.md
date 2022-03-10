@@ -18,9 +18,9 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
 ### <img src="https://media.giphy.com/media/egvjLtyRtIzt9TFc3x/giphy.gif" width="50"> A little more about me...  
 
 - 🌎 Singaporean 🇸🇬
-- 🧑🏻‍💻 Data Scientist @ <a href="https://carro.sg/"><img src="https://carro.sg/assets/img/carro_logo_v2.svg" width="55" vertical-align="middle"></a>
-- 🥷 VC Scout @ [Open Scout](https://www.os.onepager.vc/)
-- 🔭 I’m currently taking up a [AWS ML SageMaker Course from Udemy](https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DataScience_v.PROF_la.EN_cc.ROW_ti.5336&utm_content=deal4584&utm_term=_._ag_85469003754_._ad_437497334826_._kw__._de_c_._dm__._pl__._ti_dsa-774930027489_._li_9062523_._pd__._&matchtype=b&gclid=Cj0KCQjwk4yGBhDQARIsACGfAesPDCtKr-6Kky7KFRP_uaNG7x95RL8P_W_hY11FLBwT1Werwekk-JoaArACEALw_wcB) to gain first-hand experience on how to train, optimize, deploy, and integrate ML in AWS cloud.
+- 🧑🏻‍💻 Junior Data Scientist @ <a href="https://carro.sg/"><img src="https://carro.sg/assets/img/carro_logo_v2.svg" width="55" vertical-align="middle"></a>
+- 🥷 VC Scout @ [Open Scout](https://www.os.onepager.vc/) & [SHL Capital](https://shl.capital/)
+- 🔭 I’m currently taking up both [AWS ML SageMaker Course - Udemy](https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DataScience_v.PROF_la.EN_cc.ROW_ti.5336&utm_content=deal4584&utm_term=_._ag_85469003754_._ad_437497334826_._kw__._de_c_._dm__._pl__._ti_dsa-774930027489_._li_9062523_._pd__._&matchtype=b&gclid=Cj0KCQjwk4yGBhDQARIsACGfAesPDCtKr-6Kky7KFRP_uaNG7x95RL8P_W_hY11FLBwT1Werwekk-JoaArACEALw_wcB) and the [Intro to Machine Learning with TensorFlow - Udacity (Bertelsmann Technology Scholarship Program)](https://www.udacity.com/bertelsmann-tech-scholarships) to gain first-hand experience on how to train, optimize, deploy, and integrate ML models in AWS cloud.
 - 🌱 Building up my knowledge in Data Science, Computer Vision and Audio Deep Learning
 - 🧐 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
 
