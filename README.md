@@ -19,8 +19,8 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
 
 - 🌎 Singaporean 🇸🇬
 - 🧑🏻‍💻 Junior Data Scientist @ <a href="https://carro.sg/"><img src="https://carro.sg/assets/img/carro_logo_v2.svg" width="55" vertical-align="middle"></a>
-- 🥷 VC Scout @ [Open Scout](https://www.os.onepager.vc/) & [SHL Capital](https://shl.capital/)
-- 🔭 I’m currently taking up [AWS Machine Learning Engineer Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program?utm_source=aws&utm_medium=landingpage&utm_campaign=aws-mle&utm_content=&utm_content=&utm_content=) to gain first-hand experience on how to train, optimize, deploy, and integrate ML models in AWS cloud.
+- 🥷 VC Scout @ [SHL Capital](https://shl.capital/)
+- 🔭 I’m currently taking up [AWS Certified Solutions Architect Associate Udemy Course](https://nlbsg.udemy.com/course/aws-certified-solutions-architect-associate-hands-on/learn/lecture/28616728#overview) to gain first-hand experience on how to fully utilise the different AWS resources for model training, optimization, deployment, and integration of ML models.
 - 🌱 Building up my knowledge in Data Science, Computer Vision and Audio Deep Learning
 - 🧐 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
 
