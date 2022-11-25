@@ -24,7 +24,7 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
 - 🌱 Building up my knowledge in Data Visualisation, Machine Learning and Software Engineering
 - 🧐 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
 
-- 💬 Ping me about Data Science, AI, Crypto, Blockchain, and NFTs
+- 💬 Ping me about Data Science, Artifical Intelligence and NFTs
 - 📫 How to reach me: <a href="mailto:raphaelchen1995@gmail.com">📮 Send an e-mail</a>
 - ⚡ Fun fact: Like to dip anything with [SinSin Garlic Chilli Sauce](https://www.fairprice.com.sg/product/sin-sin-garlic-chilli-sauce-330g-425753) 🌶 😈
 - 📝 Checkout my [Resume](https://github.com/fatraphael95/fatraphael95/blob/8bcdcb0d89b64fd4c860ffc0e13007cf546e9c06/Resume_RAPHAEL-CHEN.pdf
