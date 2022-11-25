@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=fatraphael95.fatraphael95)
 
-[![Twitter: fatraphael95](https://img.shields.io/twitter/follow/fatraphael95?style=social)](https://twitter.com/fatraphael95)
+[![Twitter: hungryRaphael95](https://img.shields.io/twitter/follow/fatraphael95?style=social)](https://twitter.com/fatraphael95)
 [![Linkedin: Raphael](https://img.shields.io/badge/-Raphael%20Chen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-chen)](https://www.linkedin.com/in/raphael-chen)
 [![GitHub Raphael](https://img.shields.io/github/followers/fatraphael95?label=follow&style=social)](https://github.com/fatraphael95)
 
