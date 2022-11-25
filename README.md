@@ -35,28 +35,41 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
 <h2>🛠 Languages & Tools</h2>
 <h3>🧑🏻‍💻 Programming languages</h3>
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="https://www.latex-project.org/" target="_blank"> <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"> </a>
-  <a href="https://html.com/" target="_blank"> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="https://www.markdownguide.org/" target="_blank"> <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+  <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="https://www.latex-project.org/" target="_blank"> <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> </a>
+  
+  
 
 <h3>🧰 Frameworks & Libraries</h3>
-  <a href="https://numpy.org/" target="_blank"> <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-  <a href="https://reactjs.org/" target="_blank"> <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  
+  <a href="https://numpy.org/" target="_blank"> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="https://matplotlib.org/" target="_blank"> <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+  <a href="https://scikit-learn.org/stable/" target="_blank"> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <a href="https://www.tensorflow.org/" target="_blank"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+      <a href="https://keras.io/" target="_blank"> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+  </a>
+
+    
+
   
 <h3>🗄️ Databases</h3>
-  <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-  <a href="https://www.notion.so/" target="_blank"> <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+  <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img alt="PostgresSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>    
+  <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank"> <img alt="MicrosoftSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>       
+  
   
 <h3>💻 Software and Tools</h3>  
-  <a href="https://jupyter.org/" target="_blank"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="https://stackoverflow.com/" target="_blank"> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  <a href="https://brave.com/" target="_blank"> <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-  
+  <a href="https://jupyter.org/" target="_blank"> <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>    
+  <a href="https://www.notion.so/" target="_blank"> <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>    
+  <a href="https://www.postman.com/" target="_blank"> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>      
+  <a href="https://www.terraform.io/" target="_blank"> <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></a>     
+  <a href="https://git-scm.com/" target="_blank"> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white    "></a>    
+      
+<!-- https://ileriayo.github.io/markdown-badges/      -->
+      
 </p>
 
 <br />
