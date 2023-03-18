@@ -17,14 +17,12 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
 
 ### <img src="https://media.giphy.com/media/egvjLtyRtIzt9TFc3x/giphy.gif" width="50"> A little more about me...  
 
-- 🌎 Singaporean 🇸🇬
-- 🧑🏻‍💻 Junior Data Scientist @ <a href="https://carro.sg/"><img src="https://carro.sg/assets/img/carro_logo_v2.svg" width="55" vertical-align="middle"></a>
-- 🥷 VC Scout @ [SHL Capital](https://shl.capital/)
-- 🔭 I’m currently taking up [AWS Certified Solutions Architect Associate Udemy Course](https://nlbsg.udemy.com/course/aws-certified-solutions-architect-associate-hands-on/learn/lecture/28616728#overview) to gain first-hand experience on how to fully utilise the different AWS resources for model training, optimization, deployment, and integration of ML models.
+- 🌎 Singaporean 🇸🇬 born in 🇱🇰
+- 🧑🏻‍💻 Data Scientist @ <a href="https://carro.sg/"><img src="https://carro.sg/assets/img/carro_logo_v2.svg" width="55" vertical-align="middle"></a>
 - 🌱 Building up my knowledge in Data Visualisation, Machine Learning and Software Engineering
 - 🧐 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
 
-- 💬 Ping me about Data Science, Artifical Intelligence and NFTs
+- 💬 Ping me about Data Science, Artifical Intelligence and Software Engineering
 - 📫 How to reach me: <a href="mailto:raphaelchen1995@gmail.com">📮 Send an e-mail</a>
 - ⚡ Fun fact: Like to dip anything with [SinSin Garlic Chilli Sauce](https://www.fairprice.com.sg/product/sin-sin-garlic-chilli-sauce-330g-425753) 🌶 😈
 - 📝 Checkout my [Resume](https://github.com/fatraphael95/fatraphael95/blob/8bcdcb0d89b64fd4c860ffc0e13007cf546e9c06/Resume_RAPHAEL-CHEN.pdf
