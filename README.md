@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 from <a href="https://www.ed.ac.uk">University of Edinburgh</a> who is passionate about building things, increasing productivity, and investing in real solutions to real problems to make the world a better place. I am also interested to understand how COVID-19 has been disrupting different industries and creating an impact on the global workforce along with the new types of jobs surfacing for the future. 🔮
+I am Raphael Chen, a curious individual who is passionate about building things, increasing productivity, and investing in real solutions to real problems to make the world a better place. I am also interested to understand how COVID-19 has been disrupting different industries and creating an impact on the global workforce along with the new types of jobs surfacing for the future. 🔮
   </samp>
 </p>
 
@@ -18,6 +18,7 @@ I am Raphael Chen, a recent chemical engineering postgraduate 👨🏻‍🎓 fr
 ### <img src="https://media.giphy.com/media/egvjLtyRtIzt9TFc3x/giphy.gif" width="50"> A little more about me...  
 
 - 🌎 Singaporean 🇸🇬 born in 🇱🇰
+- 👨🏻‍🎓 Masters of Chemical Engnieering (MEng Hons) from <a href="https://www.ed.ac.uk">The University of Edinburgh</a>
 - 🧑🏻‍💻 Data Scientist @ <a href="https://carro.sg/"><img src="https://carro.sg/assets/img/carro_logo_v2.svg" width="55" vertical-align="middle"></a>
 - 🌱 Building up my knowledge in Data Visualisation, Machine Learning and Software Engineering
 - 🧐 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
