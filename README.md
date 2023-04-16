@@ -67,10 +67,11 @@ I am Raphael Chen, a curious individual who is passionate about building things,
   <a href="https://www.postman.com/" target="_blank"> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>      
   <a href="https://www.terraform.io/" target="_blank"> <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></a>     
   <a href="https://git-scm.com/" target="_blank"> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>  
+  <a href="https://www.anaconda.com/" target="_blank"> <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>  
      
   
       
-<!-- https://ileriayo.github.io/markdown-badges/      -->
+<!-- https://ileriayo.github.io/markdown-badges/ -->
       
 </p>
 
