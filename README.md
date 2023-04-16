@@ -42,11 +42,11 @@ I am Raphael Chen, a curious individual who is passionate about building things,
 <h3>🧰 Frameworks & Libraries</h3>
   <a href="https://numpy.org/" target="_blank"> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
-  <a href="https://matplotlib.org/" target="_blank"> <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-  <a href="https://scikit-learn.org/stable/" target="_blank"> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <a href="https://www.tensorflow.org/" target="_blank"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-      <a href="https://keras.io/" target="_blank"> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-  </a>
+  <a href="https://matplotlib.org/" target="_blank"> <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
+  <a href="https://scikit-learn.org/stable/" target="_blank"> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+  <a href="https://keras.io/" target="_blank"> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
+  <a href="https://www.anaconda.com/" target="_blank"> <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>  
 
     
 
@@ -67,7 +67,7 @@ I am Raphael Chen, a curious individual who is passionate about building things,
   <a href="https://www.postman.com/" target="_blank"> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>      
   <a href="https://www.terraform.io/" target="_blank"> <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></a>     
   <a href="https://git-scm.com/" target="_blank"> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>  
-  <a href="https://www.anaconda.com/" target="_blank"> <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>  
+  
      
   
       
