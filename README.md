@@ -19,7 +19,7 @@ I am Raphael Chen, a curious individual who is passionate about building things,
 
 - 🌎 Singaporean 🇸🇬 born in 🇱🇰
 - 👨🏻‍🎓 Masters of Chemical Engnieering (MEng Hons) from <a href="https://www.ed.ac.uk">The University of Edinburgh</a>
-- 🧑🏻‍💻 Data Scientist @ <a href="https://carro.sg/"><img src="https://carro.sg/assets/img/carro_logo_v2.svg" width="55" vertical-align="middle"></a>
+<!-- - 🧑🏻‍💻 Data Scientist @ <a href="https://carro.sg/"><img src="https://carro.sg/assets/img/carro_logo_v2.svg" width="55" vertical-align="middle"></a> -->
 - 🌱 Building up my knowledge in Data Visualisation, Machine Learning and Software Engineering
 - 🧐 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
 
