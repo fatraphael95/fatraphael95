@@ -6,14 +6,14 @@
 
 <p align="center">
   <samp>
-I am Raphael Chen, a curious individual who is passionate about building things, increasing productivity, and investing in real solutions to real problems to make the world a better place. I am also interested to understand how COVID-19 has been disrupting different industries and creating an impact on the global workforce along with the new types of jobs surfacing for the future. 🔮
+I am Raphael Chen, a curious individual who is passionate about building things, increasing productivity, and investing in real solutions to real problems to make the world a better place. I am also interested to understand how different industries are being disuprted and creating an impact on the global workforce along with the new types of jobs surfacing for the future. 🔮
   </samp>
 </p>
 
 <br />
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=%23133337&size=22&center=true&vCenter=true&width=1000&lines=Aspiring+Data+storyteller+%F0%9F%93%9A;Venture+Capital+Enthusiast+%F0%9F%9A%80;1%2B+years+of+coding+experience+%F0%9F%92%BB;Always+curious%2C+constantly+learning++and+exploring+my+random+ideas+%E2%9B%B5%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=%23133337&size=22&center=true&vCenter=true&width=1000&lines=Data+Practitioner+%F0%9F%93%9A;Venture+Capital+Enthusiast+%F0%9F%9A%80;3%2B+years+of+coding+experience+%F0%9F%92%BB;Always+curious%2C+constantly+learning++and+exploring+my+random+ideas+%E2%9B%B5%EF%B8%8F)](https://git.io/typing-svg)
 
 ### <img src="https://media.giphy.com/media/egvjLtyRtIzt9TFc3x/giphy.gif" width="50"> A little more about me...  
 
@@ -22,7 +22,7 @@ I am Raphael Chen, a curious individual who is passionate about building things,
 - 🌱 Building up my knowledge in Data Visualisation, Machine Learning and Software Engineering
 - 🧐 Interested in using Data Science & AI tools to solve real problems in high-growth businesses
 - 💬 Ping me about Data Science, Artifical Intelligence and Software Engineering
-- 📫 How to reach me: <a href="mailto:raphaelchen1995@gmail.com">📮 Send an e-mail</a>
+- 📫 How to reach me: <a href="mailto:raphael.chen@zhcs-holding.com">📮 Send an e-mail</a>
 - ⚡ Fun fact: Like to dip anything with [SinSin Garlic Chilli Sauce](https://www.fairprice.com.sg/product/sin-sin-garlic-chilli-sauce-330g-425753) 🌶 😈
 <!-- - 📝 Checkout my [Resume](https://github.com/fatraphael95/fatraphael95/blob/8bcdcb0d89b64fd4c860ffc0e13007cf546e9c06/Resume_RAPHAEL-CHEN.pdf 
 ) -->
